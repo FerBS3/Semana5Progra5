@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MostrarUser</string>
+    <string name="lbedad">Edad</string>
+    <string name="lbgenero">Genero</string>
+    <string name="lbaltura">Altura</string>
+    <string name="lbingreso">Ingreso</string>
+</resources>
